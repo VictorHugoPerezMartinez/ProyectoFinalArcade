@@ -1,0 +1,41 @@
+﻿  ProyectoFinal.cpp
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(131,33): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(322,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(338,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(351,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(352,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(364,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(365,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(366,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(367,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(379,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(382,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(413,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(420,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(617,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1359,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1360,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1364,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1365,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1367,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1368,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1379,15): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1387,15): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1395,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1402,19): warning C4305: '-=': truncation from 'double' to 'float'
+soil2-debug.lib(SOIL2.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1 of 650 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(etc1_utils.obj)' or at 'C:\Users\Aspire\source\repos\ProyectoFinal\Release\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_DXT.obj)' or at 'C:\Users\Aspire\source\repos\ProyectoFinal\Release\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(image_helper.obj)' or at ''; linking object as if no debug info
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(SOIL2.obj)' or at 'C:\Users\Aspire\source\repos\ProyectoFinal\Release\soil2-debug.pdb'; linking object as if no debug info
+  ProyectoFinal.vcxproj -> C:\Users\Aspire\source\repos\ProyectoFinal\Release\ProyectoFinal.exe
