@@ -1,0 +1,98 @@
+# Blender MTL File: 'Waka.blend'
+# Material Count: 9
+
+newmtl CoinDoor
+Ns 592.156859
+Ka 1.000000 1.000000 1.000000
+Kd 0.010253 0.009405 0.011736
+Ks 0.160821 0.160821 0.160821
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.528148
+illum 9
+map_Kd C:\\Users\\Aspire\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Models\\Maquinita\\ArcadeDoors.png
+
+newmtl CoinSlots
+Ns 749.019606
+Ka 1.000000 1.000000 1.000000
+Kd 0.846296 0.000000 0.000000
+Ks 0.228941 0.228941 0.228941
+Ke 1.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Aspire\\source\\repos\\ProyectoFinal\\ProyectoFinal\\Models\\Maquinita\\ArcadeCoinSlots.png
+
+newmtl Material.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd whac.jpg
+
+newmtl Material.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd verde.jpeg
+
+newmtl Material.005
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd whac.jpg
+
+newmtl Material.006
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd WhackAMole.jpg
+
+newmtl Material.007
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd kitchen_wood_diff_1k.jpg
+
+newmtl Material.008
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd _Metal_A.jpg
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
