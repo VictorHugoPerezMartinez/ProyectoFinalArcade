@@ -1,0 +1,30 @@
+﻿  ProyectoFinal.cpp
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(131,33): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(323,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(339,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(352,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(353,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(365,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(366,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(367,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(368,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(380,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(383,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(414,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(421,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(618,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1364,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1365,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1369,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1370,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1372,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1373,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1384,15): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1392,15): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1400,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Aspire\source\repos\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1407,19): warning C4305: '-=': truncation from 'double' to 'float'
+  ProyectoFinal.vcxproj -> C:\Users\Aspire\source\repos\ProyectoFinal\Debug\ProyectoFinal.exe
